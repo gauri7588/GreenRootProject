@@ -13,7 +13,8 @@ const Headers = () => {
           to="/" 
           className="fw-bold text-success"
         >
-          🌱 GreenRoots
+          {/* change this line for pratic  */}
+          🌱 Gauri Gade      
         </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
