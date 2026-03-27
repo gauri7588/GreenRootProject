@@ -1,0 +1,57 @@
+.learn-page {
+  font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.learn-hero {
+  background: linear-gradient(to right, #1b5e20, #43a047);
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.learn-hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.learn-hero p {
+  font-size: 20px;
+}
+
+/* Container */
+.learn-container {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* Sections */
+.learn-section {
+  margin-bottom: 60px;
+}
+
+.learn-section h2 {
+  color: #2e7d32;
+  margin-bottom: 20px;
+}
+
+.learn-section h3 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: #1b5e20;
+}
+
+.learn-section ul {
+  padding-left: 20px;
+}
+
+.learn-section li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.learn-section p {
+  line-height: 1.7;
+  color: #444;
+}
